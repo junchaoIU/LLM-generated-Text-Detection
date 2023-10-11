@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cover.png" alt="Logo" width="600">
+  <img src="cover.png" alt="Logo" width="800">
 </div>
 
 # LLM-generated Text Detection
