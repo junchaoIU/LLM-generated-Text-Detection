@@ -84,8 +84,18 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 |Deepfake Text Detection in the Wild| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.13242) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/yafuly/deepfaketextdetect)             |
 |CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2212.10341)            |
 
+#### Adversarial Learning Methods
+| Paper                                                                                                         | Link                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  RADAR: Robust AI-Text Detection via Adversarial Learning                                             | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2307.03838)                                    |
+| Multiscale Positive-Unlabeled Detection of AI-Generated Texts                         | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2307.11729) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/ryuryukke/OUTFOX)                |
 
 
+#### LLMs as Detector
+| Paper                                                                                                         | Link                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Fighting fire with fire: Can chatgpt detect ai-generated text?                                             | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2308.01284)   [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/amritabh/chatgpt-as-detector)                                     |
+| GPT Paternity Test: GPT Generated Text Detection with GPT Genetic Inheritance                       | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.12519)                |
 
 
 
@@ -101,5 +111,7 @@ If our research helps you, please kindly cite our paper.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. We appreciate your contributions to making LLM-generated Text Detection work even better.
+
+
 
 
