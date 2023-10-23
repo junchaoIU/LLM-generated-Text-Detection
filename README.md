@@ -6,7 +6,7 @@
 
 <!-- **Authors:** -->
 
-**_¹ [Junchao Wu](https://github.com/junchaoIU), ¹ [Shu Yang](), ¹ [Runzhe Zhan]()_**
+**_¹ [Junchao Wu](https://github.com/junchaoIU), ¹ [Shu Yang](https://github.com/shuyhere), ¹ [Runzhe Zhan](https://runzhe.me/), ¹ [Yulin Yuan](https://fah.um.edu.mo/yulin-yuan/), ¹ [Derek Fai Wong](https://www.fst.um.edu.mo/personal/derek-wong/), ¹ [Lidia Sam Chao]()_**
 
 
 <!-- **Affiliations:** -->
@@ -14,15 +14,11 @@
 ¹ University of Macau
 
 ## News
-* [2023.10.11] : We release 8k LLM-generated Chinese Essays using simple prompt from LLMs including gpt-3.5-turbo, chatglm2-6b, Qwen-14B-Chat and Baichuan2-13B-Chat. 
 * [2023.10.07] : We start **Chinese LLM-generated Essay Detection** Project.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
 ## Overview
 
-
-## Acknowledgement
-* [[CSL: A Large-scale Chinese Scientific Literature Dataset](https://aclanthology.org/2022.coling-1.344/)]: We are grateful to authors of CSL for their generous contribution, and our human-written chinese essay are sampled from the CSL. 
 
 
 ## Contributing
