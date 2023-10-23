@@ -10,21 +10,27 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 <div align="center">
   <img src="cover.png" alt="Logo" width="800">
 </div>
-
+<br>
 <!-- **Authors:** -->
 
-**_¹ [Junchao Wu](https://github.com/junchaoIU), ¹ [Shu Yang](https://github.com/shuyhere), ¹ [Runzhe Zhan](https://runzhe.me/), ¹ [Yulin Yuan](https://fah.um.edu.mo/yulin-yuan/), ¹ [Derek Fai Wong](https://www.fst.um.edu.mo/personal/derek-wong/), ¹ [Lidia Sam Chao]()_**
+**_¹ [Junchao Wu](https://github.com/junchaoIU), ¹ [Shu Yang](https://github.com/shuyhere), ¹ [Runzhe Zhan](https://runzhe.me/), ¹ ² [Yulin Yuan](https://fah.um.edu.mo/yulin-yuan/), ¹ [Derek Fai Wong](https://www.fst.um.edu.mo/personal/derek-wong/), ¹ [Lidia Sam Chao]()_**
 
 
 <!-- **Affiliations:** -->
 
-¹ University of Macau
+¹ University of Macau, ² Peking University
 
 ## 📢 News
 * [2023.10.07] : We start **Chinese LLM-generated Essay Detection** Project.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
+## 🚩 Citation
 
+If our research helps you, please kindly cite our paper.
+
+```bibtex
+
+```
 
 
 ## Contributing
