@@ -25,8 +25,23 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 * [2023.10.07] : We start **Chinese LLM-generated Essay Detection** Project.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
-## 👀 Table of Contents
-[TOC]
+## 🔍 Table of Contents
+- [Awesome LLM-generated Text Detection](#awesome-llm-generated-text-detection)
+  - [📢 News](#-news)
+  - [� Table of Contents](#-table-of-contents)
+  - [📃 Papers](#-papers)
+    - [Overview](#overview)
+    - [Datasets](#datasets)
+      - [Benchmarks](#benchmarks)
+      - [Corpus](#corpus)
+    - [Detector](#detector)
+      - [Watermark Technology](#watermark-technology)
+      - [Zero-shot Methods](#zero-shot-methods)
+      - [Fine-tuning LMs Methods](#fine-tuning-lms-methods)
+      - [Adversarial Learning Methods](#adversarial-learning-methods)
+      - [LLMs as Detector](#llms-as-detector)
+  - [🚩 Citation](#-citation)
+  - [Contributing](#contributing)
 
 ## 📃 Papers
 ### Overview
