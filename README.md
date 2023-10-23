@@ -71,8 +71,18 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 |          DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05540) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/mbzuai-nlp/detectllm)           |
 |          GLTR: Statistical Detection and Visualization of Generated Text           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/1906.04043) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/HendrikStrobelt/detecting-fake-text)           |
 
+#### Fine-tuning LMs Methods
 
-
+| Paper                                                                                                         | Link                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection                                               | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2301.07597)      [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/hello-simpleai/chatgpt-comparison-detection)                                        |
+| Multiscale Positive-Unlabeled Detection of AI-Generated Texts                         | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.18149) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/yuchuantian/aigc_text_detector)                |
+|          Stylometric Detection of AI-Generated Text in Twitter Timelines           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2303.03697)          |
+|          TweepFake: about Detecting Deepfake Tweets          | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2008.00036) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/tizfa/tweepfake_deepfake_text_detection)           |
+|          Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?     | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05871)           |
+|          Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?     | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05871)           |
+|Deepfake Text Detection in the Wild| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.13242) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/yafuly/deepfaketextdetect)             |
+|CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2212.10341)            |
 
 
 
