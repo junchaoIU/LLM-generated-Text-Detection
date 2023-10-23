@@ -64,6 +64,16 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 | Watermarking Pre-trained Language Models with Backdooring                    | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2210.07543)                                                                                                               |
 #### Zero-shot Methods
 
+| Paper                                                                                                         | Link                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature                                               | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2301.11305)      [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/eric-mitchell/detect-gpt)                                        |
+| Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature                          | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2310.05130) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/baoguangsheng/fast-detect-gpt)                |
+|          DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05540) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/mbzuai-nlp/detectllm)           |
+|          GLTR: Statistical Detection and Visualization of Generated Text           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/1906.04043) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/HendrikStrobelt/detecting-fake-text)           |
+
+
+
+
 
 
 
