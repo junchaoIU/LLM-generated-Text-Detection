@@ -21,7 +21,7 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 ¹ University of Macau, ² Peking University
 
 ## 📢 News
-* [2023.10.24] Our survey paper is now available on Arxiv:
+* [2023.10.24] Our survey paper is now available on Arxiv: *[A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)***.
 * [2023.10.07] : We start **Chinese LLM-generated Essay Detection** Project.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
@@ -33,7 +33,7 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
     - [Overview](#overview)
     - [Datasets](#datasets)
       - [Benchmarks](#benchmarks)
-      - [Corpus](#corpus)
+      - [Potential Datasets](#potential-datasets)
     - [Detector](#detector)
       - [Watermark Technology](#watermark-technology)
       - [Zero-shot Methods](#zero-shot-methods)
@@ -68,7 +68,7 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 | [GPABenchmark](https://arxiv.org/abs/2306.05524)                                                           | train            | 600k             | 600k         |
 | [Scientific-articles Benchmark](https://aclanthology.org/2023.trustnlp-1.17/)                                          | train test       | 8k 4k            | 8k 4k        |
 
-#### Corpus
+#### Potential Datasets
 
 ### Detector
 ![DETECTOR](image.png)
@@ -87,8 +87,10 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature                                               | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2301.11305)      [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/eric-mitchell/detect-gpt)                                        |
 | Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature                          | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2310.05130) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/baoguangsheng/fast-detect-gpt)                |
+| Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model                          | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.16617)              |
 |          DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05540) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/mbzuai-nlp/detectllm)           |
 |          GLTR: Statistical Detection and Visualization of Generated Text           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/1906.04043) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/HendrikStrobelt/detecting-fake-text)           |
+|          HowkGPT: Investigating the Detection of ChatGPT-generated University Student Homework through Context-Aware Perplexity Analysis           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.18226) |
 
 #### Fine-tuning LMs Methods
 
@@ -99,21 +101,24 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 |          Stylometric Detection of AI-Generated Text in Twitter Timelines           | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2303.03697)          |
 |          TweepFake: about Detecting Deepfake Tweets          | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2008.00036) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/tizfa/tweepfake_deepfake_text_detection)           |
 |          Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?     | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05871)           |
-|          Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?     | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05871)           |
 |Deepfake Text Detection in the Wild| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.13242) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/yafuly/deepfaketextdetect)             |
-|CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2212.10341)            |
+|ArguGPT: evaluating, understanding and identifying argumentative essays generated by GPT models| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2304.07666) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/huhailinguist/ArguGPT)             |
+|Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2306.05524)             |
+|GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.07969) |
+|Neural Deepfake Detection with Factual Structure of Text| [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2010.07475)            |
+|ConDA: Contrastive Domain Adaptation for AI-generated Text Detection | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2309.03992) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/AmritaBh/ConDA-gen-text-detection)            |
 
 #### Adversarial Learning Methods
 | Paper                                                                                                         | Link                                                                                                                                                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  RADAR: Robust AI-Text Detection via Adversarial Learning                                             | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2307.03838)                                    |
-| Multiscale Positive-Unlabeled Detection of AI-Generated Texts                         | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2307.11729) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/ryuryukke/OUTFOX)                |
-
+| OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples                         | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2307.11729) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/ryuryukke/OUTFOX)                |
 
 #### LLMs as Detector
 | Paper                                                                                                         | Link                                                                                                                                                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  Fighting fire with fire: Can chatgpt detect ai-generated text?                                             | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2308.01284)   [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/amritabh/chatgpt-as-detector)                                     |
+| OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples                         | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2307.11729) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/ryuryukke/OUTFOX)                |
 | GPT Paternity Test: GPT Generated Text Detection with GPT Genetic Inheritance                       | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2305.12519)                |
 
 
@@ -124,7 +129,15 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 If our research helps you, please kindly cite our paper.
 
 ```bibtex
-
+@article{wu2023survey,
+      title={A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions}, 
+      author={Junchao Wu and Shu Yang and Runzhe Zhan and Yulin Yuan and Derek F. Wong and Lidia S. Chao},
+      journal      = {CoRR},
+      volume       = {abs/2310.14724},
+      year         = {2023},
+      url          = {https://arxiv.org/abs/2310.14724},
+      eprinttype    = {arXiv},
+      eprint       = {2310.14724},
 ```
 
 
