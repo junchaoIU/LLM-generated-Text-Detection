@@ -21,7 +21,7 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 ¹ University of Macau, ² Peking University
 
 ## 📢 News
-* [2023.10.24] Our survey paper is now available on Arxiv: *[A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)***.
+* [2023.10.24] Our survey paper is now available on Arxiv: *[A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)*.
 * [2023.10.07] : We start **Chinese LLM-generated Essay Detection** Project.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
@@ -71,7 +71,9 @@ We mainly analyzed the work related to LLM-generated Text Detection from the fol
 #### Potential Datasets
 
 ### Detector
-![DETECTOR](image.png)
+<div align="left">
+  <img src="image.png" alt="Detector" width="800">
+</div>
 
 #### Watermark Technology
 
