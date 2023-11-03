@@ -22,7 +22,6 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 
 ## 📢 News
 * [2023.10.24] Our survey paper is now available on Arxiv: *[A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)*.
-* [2023.10.07] : We start **Chinese LLM-generated Essay Detection** Project.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
 ## 🔍 Table of Contents
