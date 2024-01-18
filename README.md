@@ -70,7 +70,7 @@ Please refer to our article/paper for more details.
 | [TuringBench](https://aclanthology.org/2021.findings-emnlp.172/)             | train            | 10k              | 190k         |
 | [MGTBench](https://arxiv.org/abs/2303.14822)                                 | train test       | 2k 563           | 13k 3k       |
 | [ArguGPT](https://arxiv.org/pdf/2304.07666.pdf)                              | train valid test | 3k 350 350       | 3k 350 350   |
-| [DeepfakeText-Detect-Dataset](https://arxiv.org/abs/2210.09421)              | train valid test | 95k 29k 29k      | 236k, 29k 28k|
+| [DeepfakeText-Dataset](https://arxiv.org/abs/2305.13242)              | train valid test | 95k 29k 29k      | 236k, 29k 28k|
 | [M4](https://arxiv.org/abs/2305.14902)                                       | train valid test | 122k 500 500     | 122k 500 500 |
 | [GPABenchmark](https://arxiv.org/abs/2306.05524)                             | train            | 600k             | 600k         |
 | [Scientific-articles Benchmark](https://aclanthology.org/2023.trustnlp-1.17/)| train test       | 8k 4k            | 8k 4k        |
