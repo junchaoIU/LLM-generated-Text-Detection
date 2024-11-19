@@ -27,7 +27,8 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
 ¹ University of Macau, ² Peking University
 
 ## 📢 News
-* [2023.10.24] Our survey paper is now available on Arxiv: *[A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)*.
+* [2024.09.26] ✨ Our benchmark paper is accepted by NeurIPS 2024 D&B track. We released DetectRL, a benchmark for real-world LLM-generated text detection, provide real utility to researchers on the topic and practitioners looking for consistent evaluation methods. Please refer to arXiv: *[DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios](https://arxiv.org/abs/2410.23746)* and Github Repo *[DetectRL](https://github.com/NLP2CT/DetectRL)* for details.
+* [2023.10.24] Our survey paper is now available on arXiv: *[A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/abs/2310.14724)*.
 * [2023.05.01] : We began to explore the topic of LLM-generated Text Detection.
 
 ## 🔍 Table of Contents
