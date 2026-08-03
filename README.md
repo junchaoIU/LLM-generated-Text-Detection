@@ -50,6 +50,7 @@ The powerful ability of large language models (LLMs) to understand, follow, and 
       - [Neural-based Detectors](#neural-based-detectors)
       - [Human-assisted Methods](#human-assisted-methods)
       - [Detector Attack](#detector-attack)
+      - [Shared Task](#shared-task)
     - [Related Works](#related-works)
       - [Other Surveys](#other-surveys)
   - [🚩 Citation](#-citation)
@@ -98,9 +99,9 @@ Please refer to our article/paper for more details.
 | Comprehension and Reasoning        | SciGen, ROCStories Corpora, HellaSwag, SQuAD                                | 
 
 ### Detectors
-<div align="left">
+<!-- <div align="left">
   <img src="image.png" alt="Detector" width="800">
-</div>
+</div> -->
 
 #### Watermarking Technology
 
@@ -209,6 +210,17 @@ Please refer to our article/paper for more details.
 | MASH: Evading Black-Box AI-Generated Text Detectors via Style Humanization | ACL 2026 Findings | 2026-01 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2601.08564) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/githigher/MASH) |
 | Vaporizer: Breaking Watermarking Schemes for Large Language Model Outputs | arXiv | 2026-05 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2605.07481) |
 | AI Watermark Evidence Fails Forensic Readiness: An Empirical Evaluation | arXiv | 2026-07 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2607.16010) |
+
+#### Shared Task
+
+| Paper | Venue | Date | Link |
+|---|---|---|---|
+| Findings of the RuATD Shared Task 2022 on Artificial Text Detection in Russian | Dialogue 2022 | 2022-06 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2206.01583) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/dialogue-evaluation/RuATD) |
+| SemEval-2024 Task 8: Multigenerator, Multidomain, and Multilingual Black-Box Machine-Generated Text Detection | SemEval 2024 | 2024-04 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2404.14183) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/mbzuai-nlp/SemEval2024-task8) |
+| GenAI Content Detection Task 1: English and Multilingual Machine-Generated Text Detection | COLING 2025 | 2025-01 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2501.11012) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/mbzuai-nlp/COLING-2025-Workshop-on-MGT-Detection-Task1) |
+| Overview of the NLPCC 2025 Shared Task 1: LLM-Generated Text Detection | NLPCC 2025 | 2025-08 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://doi.org/10.1007/978-981-95-3352-7_21) [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/NLP2CT/NLPCC-2025-Task1) |
+| Findings of the Counter Turing Test (CT2): AI-Generated Text Detection | DeFactify 2025 | 2026-05 | [![Static Badge](https://img.shields.io/badge/paper-%23B31B1B?logo=arxiv&labelColor=grey)](https://arxiv.org/abs/2605.20761) |
+| The Second Shared Task on LLM-Generated Text Detection (NLPCC 2026 Task 6) | NLPCC 2026 | 2026-11 | [![Static Badge](https://img.shields.io/badge/code-black?logo=github)](https://github.com/NLP2CT/NLPCC-2026-Task6-Detection) |
 
 ### Related Works
 #### Other Surveys
