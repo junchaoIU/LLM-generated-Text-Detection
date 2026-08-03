@@ -80,7 +80,7 @@ Please refer to our article/paper for more details.
 | [M4](https://arxiv.org/abs/2305.14902) | arXiv | 2023-05 | train valid test | 122k 500 500 | 122k 500 500 |
 | [GPABenchmark](https://arxiv.org/abs/2306.05524) | arXiv | 2023-06 | train | 600k | 600k |
 | [Scientific-articles Benchmark](https://aclanthology.org/2023.trustnlp-1.17/) | TrustNLP 2023 | 2023 | train test | 8k 4k | 8k 4k |
-| [DetectRL](https://arxiv.org/abs/2410.23746) | NeurIPS 2024 D&B | 2024-10 | train test | 101k | 134k (3 LLMs, 4 attacks, 6 domains) |
+| [DetectRL](https://arxiv.org/abs/2410.23746) | NeurIPS 2024 D&B | 2024-10 | train test | 101k | 134k (4 LLMs, 4 domains, 4 attacks) |
 | [DetectRL-X](https://arxiv.org/abs/2605.15518) | ACL 2026 | 2026-05 | test | 3.46M (8 langs, 6 domains, 4 LLMs, 8 attacks) | |
 | [MULTITuDE](https://arxiv.org/abs/2310.13606) | EMNLP 2023 | 2023-10 | test | - | 56k (7 langs, 8 LLMs) |
 | [RAID](https://arxiv.org/abs/2405.07940) | ACL 2024 | 2024-05 | test | - | 6M (11 models) |
