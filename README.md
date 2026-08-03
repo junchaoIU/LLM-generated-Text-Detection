@@ -255,15 +255,13 @@ If our research helps you, please kindly cite our paper.
       url          = {https://aclanthology.org/2025.cl-1.8/},
 }
 
-@article{wu2024GECScore,
+@inproceedings{wu2025GECScore,
       title={Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore}, 
       author={Junchao Wu and Runzhe Zhan and Derek F. Wong and Shu Yang and Xuebo Liu and Lidia S. Chao and Min Zhang},
-      journal      = {CoRR},
-      volume       = {abs/2405.04286},
-      year         = {2024},
-      url          = {https://arxiv.org/abs/2405.04286},
-      eprinttype   = {arXiv},
-      eprint       = {2405.04286},
+      booktitle    = {Proceedings of the 31st International Conference on Computational Linguistics},
+      year         = {2025},
+      pages        = {10275--10292},
+      url          = {https://aclanthology.org/2025.coling-main.684/},
 }
 
 @article{chen2025RepreGuard,
@@ -290,7 +288,7 @@ If our research helps you, please kindly cite our paper.
       author={Junchao Wu and Runzhe Zhan and Derek F. Wong and Shu Yang and Xinyi Yang and Yulin Yuan and Lidia S. Chao},
       booktitle    = {Advances in Neural Information Processing Systems 37 (NeurIPS 2024) Datasets and Benchmarks Track},
       year         = {2024},
-      url          = {https://arxiv.org/abs/2410.23746},
+      url          = {https://proceedings.neurips.cc/paper_files/paper/2024/hash/b61bdf7e9f64c04ec75a26e781e2ad51-Abstract-Datasets_and_Benchmarks_Track.html},
 }
 ```
 
