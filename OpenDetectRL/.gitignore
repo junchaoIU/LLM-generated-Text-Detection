@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Data / model cache
+.opendetectrl_data/
+*.pt
+*.bin
+*.ckpt
+
+# OS / misc
+.DS_Store
+*.log

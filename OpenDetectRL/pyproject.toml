@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "opendetectrl"
+version = "0.0.1"
+description = "Open-source toolkit for LLM-generated text detection with adversarial robustness evaluation."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Apache-2.0" }
+authors = [{ name = "NLP2CT" }]
+keywords = [
+    "llm",
+    "machine-generated-text",
+    "detection",
+    "adversarial",
+    "robustness",
+    "benchmark",
+]
+dependencies = [
+    "numpy>=1.21",
+    "scikit-learn>=1.0",
+]
+
+[project.optional-dependencies]
+detectors = ["torch>=2.0", "transformers>=4.30"]
+dev = ["pytest>=7.0", "ruff"]
+
+[tool.setuptools.packages.find]
+include = ["opendetectrl*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
